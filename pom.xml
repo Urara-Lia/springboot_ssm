@@ -9,7 +9,7 @@
 	</parent>
 
 	<groupId>com.myboot</groupId>
-	<artifactId>springboot_08_ssm</artifactId>
+	<artifactId>springboot_ssm</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
 		<java.version>1.8</java.version>
